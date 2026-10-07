@@ -1,0 +1,6 @@
+kysymys;vaihtoehto1;vaihtoehto2;vaihtoehto3;vaihtoehto4;oikea
+Mikä on Suomen pääkaupunki?;Turku;Tampere;Helsinki;Kuopio;3
+Paljonko on 5 * 5?;10;15;20;25;4
+Mikä tiedostopääte on Python-lähdekoodilla?;.jpg;.py;.csv;.txt;2
+Mikä Python-funktio palauttaa listan pituuden?;print;input;len;range;3
+Mikä näistä on Pythonin totuusarvo?;True;Maybe;Yes;OK;1
